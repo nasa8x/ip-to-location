@@ -1,0 +1,26 @@
+{
+  "name": "ip-to-location",
+  "version": "1.0.1",
+  "description": "Fetch the geo location of an IP address, IP6 and host name.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/nasa8x/ip-to-location.git"
+  },
+  "keywords": [
+    "iplocation",
+    "ip2location"
+  ],
+  "author": "Nasa8x",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/nasa8x/ip-to-location/issues"
+  },
+  "homepage": "https://gitlab.com/nasa8x/ip-to-location#README",
+  "dependencies": {
+    "wreck": "^12.0.0"
+  }
+}
